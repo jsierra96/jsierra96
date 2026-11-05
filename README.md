@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Hola soy Joanan @Sierra soy Analista Programador con experiencia en desarrollo y mantenimiento de aplicaciones web, integración de APIs REST, administración de bases de datos relacionales y configuración de infraestructura Linux</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🌱 Actualmente estoy aprendiendo muchas cosas.<br>👀 Me interesan la programación, los videojuegos y la música.<br>🎲 Un dato curioso: me fascinan los perros y los gatos.</p>
 
 ###
 
